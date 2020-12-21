@@ -11,7 +11,7 @@ How many schools are in each Metro-centric locale?
 What city has the most schools in it? How many schools does it have in it?
 How many unique cities have at least one school in it?
 
-###Prerequisites:
+### Prerequisites:
 Python 3.3+ installed
 
 ### Run the program 
